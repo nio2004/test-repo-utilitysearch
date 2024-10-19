@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 # Normalize pixel values to be between 0 and 1
 x_train = x_train.astype('float32') / 255.0
 x_test = x_test.astype('float32') / 255.0
-
+print(test)
+print(test)
 # Define the model
 model = models.Sequential([
     layers.Conv2D(32, (3, 3), activation='relu', input_shape=(32, 32, 3)),
