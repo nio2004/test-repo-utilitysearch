@@ -40,6 +40,9 @@ async function run() {
         // Close the connection
         await client.close();
         console.log('Connection closed.');
+        console.log('Connection closed.');
+        console.log('Connection closed.');
+        console.log('Connection closed.');
        
          
     }
