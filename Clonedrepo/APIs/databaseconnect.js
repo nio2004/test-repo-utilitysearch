@@ -42,10 +42,6 @@ async function run() {
         console.log('Connection closed.');
         console.log('Connection closed.');
         console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
        
          
     }
