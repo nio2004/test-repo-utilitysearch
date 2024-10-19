@@ -41,13 +41,7 @@ async function run() {
         await client.close();
         console.log('Connection closed.');
         console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
-        console.log('Connection closed.');
-       
-        
-        
+         
     }
 }
 
